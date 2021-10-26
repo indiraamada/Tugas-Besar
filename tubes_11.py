@@ -1,5 +1,4 @@
 # WELCOME TO TEMPDEC
-
 #Bacanya dari paling bawah
 from random import randint
 
